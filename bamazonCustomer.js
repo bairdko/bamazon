@@ -2,7 +2,6 @@
 
 var mysql = require("mysql");
 var inquirer = require("inquirer");
-//var tto = require('terminal-table-output').create();
 
 //Welcome Message 
 console.log("Hello! Loading Bamazon");
